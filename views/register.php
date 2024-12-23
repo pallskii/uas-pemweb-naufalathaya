@@ -21,8 +21,8 @@ if (isset($_SESSION['is_logged_in']) && $_SESSION['is_logged_in']) {
 <body>
   <header class="header">
     <div class="container">
-      <a href="../index.php" class="logo">TheSongsIsYours</a>
-      <p>Platform untuk menyampaikan pesan mendalam melalui musik</p>
+      <a href="../index.php" class="logo">Pallski</a>
+      <p>Platform untuk menampilkan galeri karya dan cerita kreatif</p>
     </div>
   </header>
 
