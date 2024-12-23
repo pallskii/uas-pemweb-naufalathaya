@@ -13,7 +13,7 @@ if (isset($_SESSION['is_logged_in']) && $_SESSION['is_logged_in']) {
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Register - Toko Item Game</title>
+  <title>Register - Pallski</title>
   <link rel="stylesheet" href="../public/css/style.css" />
   <script src="../public/js/register.js" defer></script>
 </head>
@@ -73,7 +73,7 @@ if (isset($_SESSION['is_logged_in']) && $_SESSION['is_logged_in']) {
   </main>
 
   <footer class="footer">
-    <p>&copy; Copyright TheSongsIsYours 2024</p>
+    <p>&copy; Copyright Pallski Gallery 2024</p>
   </footer>
 </body>
 
